@@ -1,6 +1,6 @@
 ---
 title: Jullian's AP Biology Study
-excerpt: Create your own template or use someone else's. Changing the template is a matter of updating one line
+excerpt: Home page for the AP Biology Study
 ---
 # Notes
 - [[16. The Molecular Basis of Inheritance]]
