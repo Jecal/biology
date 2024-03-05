@@ -1,8 +1,8 @@
 ---
-title: Jullian's AP Biology Study
+title: AP Biology Study
 excerpt: Home page for the AP Biology Study
 ---
-> ⚠️ Notes are not yet updated to follow these guidelines [expected to be by 3/17/24, 8:00 AM
+> ⚠️ Notes are not yet updated to follow these guidelines [update by 3/17/24, 8:00 AM]
 # Notes
 - [[16. The Molecular Basis of Inheritance]]
 - [[17. From Gene to Protein]]
