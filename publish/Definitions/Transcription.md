@@ -4,7 +4,7 @@
 
 ***
 # Components
-1. [[DNA General]]
+1. [[DNA]]
 2. [[Promoter]]
 3. [[Transcription Factors]]
 4. [[RNA Polymerase]]

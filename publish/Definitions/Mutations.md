@@ -2,7 +2,7 @@
 # Definition
 > An alteration in the genetic code of a gene
 # Components
-- [[DNA General]]
+- [[DNA]]
 - [[mRNA]]
 - [[Substitution]]
 - [[Deletion]]
