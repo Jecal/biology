@@ -1,4 +1,3 @@
-#definition #DNA 
 # General
 - Semi-conservative replication
 - Results in sister chromatids
@@ -12,3 +11,12 @@
 	2. On the lagging strand, replication occurs from the 3' to 5' ends of the strand, causing a necessity for multiple RNA primers to be used, or discontinuous replication
 5. RNA primers are then removed by another form of DNA polymerase and replaced with their respective bases
 6. DNA ligase joins the okazaki fragments formed on the lagging strand, filling the gaps left by DNA polymerase on the 3' ends
+***
+# Root Note
+>[[16. The Molecular Basis of Inheritance]]
+# Root
+- [[DNA]]
+# Branch
+- [[Nitrogenous Bases]]
+- [[DNA Helicase]]
+- [[DNA Polymerase]]

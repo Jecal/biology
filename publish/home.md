@@ -11,10 +11,14 @@ excerpt: Home page for the AP Biology Study
 ***
 # Guide
 ## Roots
-- Where you could find the page that you are viewing from
-	- Ex: DNA is a root of DNA Replication
+> Where you could find the page that you are viewing from
+- Ex: DNA is a root of DNA Replication
 ## Branch(es)
-- Where the page could lead you to/what the page is comprised of
-	- Ex: DNA Replication is a branch of DNA, process involving DNA
-	- Ex: DNA Polymerase is a branch of DNA, item involved in DNA
+> Where the page could lead you to/what the page is comprised of
+- Ex: DNA Replication is a branch of DNA, process involving DNA
+- Ex: DNA Polymerase is a branch of DNA, item involved in DNA
+## Search
+> Use the top right search to search for specific notes based on chapter or words that you don't know the definition of
+***
+# Log
 

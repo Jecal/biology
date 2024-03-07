@@ -12,7 +12,7 @@
 - Anti-parallel
 	- Strands run opposite to each other
 ***
-# Root
+# Root Note
 - [[16. The Molecular Basis of Inheritance]]
 - [[17. From Gene to Protein]]
 # Branch

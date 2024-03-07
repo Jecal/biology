@@ -4,7 +4,11 @@
 # Purposes
 - **Cap**: prevents the mRNA from being degraded when outside the nucleus
 - **Tail**: provides time for the mRNA to be translated by ribosomes when it exits the nucleus, as an exonuclease actively consumes the tail
-# Components
+***
+# Root Note
+> [[17. From Gene to Protein]]
+# Root
 - [[Pre-mRNA]]
+# Branch
 - [[mRNA]]
 
