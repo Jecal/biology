@@ -1,0 +1,56 @@
+- operon, units of expression
+	- found only in prokaryotes
+	- purpose is to control gene expression at a transcriptional level
+		- either gene is transcribed or not
+		- once it's transcribed, it is expressed
+- promoter affects many other genes
+- polycistronic mRNA, transcript of multiple genes
+- operon consists of:
+	- promoter
+	- operator
+	- gene, number varies
+- operon is either on or off
+- repressor protein
+	- 2 possible shapes which are constantly toggled:
+		- Active, shape has high affinity for operator site of operon
+			- prevents RNA polymerase from transcribing
+			- RNA polymerase is physically blocked
+		- Inactive, shape has low affinity for operator site of operon
+			- not able to bind to operator site
+	- Some molecule can bind to the repressor protein, changing it's configuration to an inactive form
+	- bind to operator of operon
+	- active form is when operon is shape which allows it to bind to the operator
+- Operon is always on or off depends on the shape of the repressor protein
+	- Concentration of molecule can increase can affect 
+- Lethal mutation in lacl operon would prevent repressor protein from being made, or at least in a functional state
+- repressible operon
+	- trpr gene, when expressed, produces mrna, translated produces repressor protein in it's inactive form
+	- tryptophan is produced from the gene
+	- tryptophan has a chance to attach to the inactive respressor protein, making it active, blocking the production of eeznymes for trptopahn synthesis
+- inducible operon, lac operon is always off
+	- lots of lactose presence bind to the repressor protein, putting it into inactive shape
+	- decreasing lactose concentration means less binding to repressor protein, not affecting the shape of the repressor protein
+- repressible operon, trp operan is always on
+***
+# Hox Genes
+- when transcribed, creates mRNA
+- when mRNA translated, creates protein
+- protein is called transcription factor
+- Products of hox genes, hox proteins (transcription factors) determine where a certain body part are on an organism
+	- Hox A gene makes Hox A transcription factor
+	- Without hox protein, cannot transcribe gene where body parts go 
+- activate genes where body parts must go
+# Hairpin Loop
+- affects mRNA
+- cell signals 
+- enzymes create a hairpin loop in mRNA
+- any ribosomes approaching said loop stop and fall off
+- separate enzymes disassemble mRNA that was being produced
+- proteins and enzymes cause this
+# Methylation and Acetylation
+- before transcription has occured
+# Chain
+- methylation and acetylation occur before transcription
+- if transcription has occured, transcription factor production is stopped
+- if transcription factor production has begun, prevent activator proteins from tapping it
+- if that's already done, don't cap or tail
