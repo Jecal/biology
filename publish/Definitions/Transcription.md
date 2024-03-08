@@ -1,4 +1,3 @@
-#definition
 # Definition
 >The creation of an RNA molecule by reading a gene to produce a complementary RNA strand
 

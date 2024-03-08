@@ -1,4 +1,3 @@
-#definition #DNA 
 # Definition
 > Non-coding DNA added on to the coding DNA in order to compensate for the shortening of a strand every single time it is replicated
 

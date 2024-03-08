@@ -1,4 +1,3 @@
-#definition #DNA 
 # Definition
 > An enzyme which adds the respective, corresponding nitrogenous bases to the 3' end of a DNA strand
 # Conditions

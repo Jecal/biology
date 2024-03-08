@@ -1,4 +1,3 @@
-#definition 
 # Definition
 > The stop codons:
 > - UAA

@@ -1,5 +1,5 @@
 # Definition
 > What the virus can infect; Can only infect certain types of hosts
 ***
-# Root
+# Root Note
 - [[19. Viruses (WIP)]]

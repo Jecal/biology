@@ -1,4 +1,3 @@
-#definition
 # Definition
 > The process by which a 7-methylguanosine cap is added to the 5' end of the mRNA and a polyadenylate, or poly-a, tail is added to the 3' end
 # Purposes

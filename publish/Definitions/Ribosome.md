@@ -1,4 +1,3 @@
-#definition
 # Definition
 > Facilitates protein synthesis by translating the genetic information encoded in a given mRNA molecule into a specific sequence of amino-acid which eventually forms into a functioning protein. Reads mRNA strands from the 5' to 3'.
 # Details
