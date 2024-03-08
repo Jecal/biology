@@ -1,12 +1,14 @@
 # Definition
 >The creation of an RNA molecule by reading a gene to produce a complementary RNA strand
-
 ***
-# Components
-1. [[DNA]]
-2. [[Promoter]]
-3. [[Transcription Factors]]
-4. [[RNA Polymerase]]
-5. [[Pre-mRNA]]
-6. [[Capping & Tailing]]
-7. [[mRNA]]
+# Root Note
+> [[17. From Gene to Protein]]
+# Root
+- [[DNA]]
+# Branch
+- [[Promoter]]
+- [[Transcription Factors]]
+- [[RNA Polymerase]]
+- [[Pre-mRNA]]
+- [[Capping & Tailing]]
+- [[mRNA]]

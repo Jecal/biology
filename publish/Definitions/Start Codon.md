@@ -1,4 +1,7 @@
 # Definition
 > The start codon, AUG
-# Components
+***
+# Root Note
+> [[17. From Gene to Protein]]
+# Root
 - [[mRNA]]

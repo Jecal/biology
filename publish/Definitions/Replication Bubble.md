@@ -1,5 +1,9 @@
 # Definition
 > The area at which the two DNA strands are opened by [[DNA Helicase]]
-# Components
+***
+# Root Note
+> [[16. The Molecular Basis of Inheritance]]
+# Root
 - [[Origin]]
 - [[DNA Replication]]
+- [[DNA Helicase]]

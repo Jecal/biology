@@ -3,6 +3,8 @@
 > - UAA
 > - UAG
 > - UGA
-
-# Components
+***
+# Root Note
+> [[17. From Gene to Protein]]
+# Root
 - [[mRNA]]

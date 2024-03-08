@@ -3,7 +3,11 @@
 # Details
 - If the ribosome is creating a polypeptide chain which will fold to become a protein that resides in the cytoplasm, then they do not have to move anywhere
 - If the ribosome is creating a polypeptide chain which will fold to become a protein for another organelle or to become secreted, then the chain synthesized goes through the ER
-# Components
+***
+# Root Note
+> [[17. From Gene to Protein]]
+# Root
 - [[mRNA]]
+# Branch
 - [[Ribozymes]]
 - [[tRNA]]
